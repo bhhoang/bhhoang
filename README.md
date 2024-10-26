@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 <h3 align="center">I am a Vietnamese guy who love computer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhhoang" alt="bhhoang" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&title=-Stars"><img src="https://github-profile-trophy.vercel.app/?username=bhhoang&title=-Stars" alt="bhhoang" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
