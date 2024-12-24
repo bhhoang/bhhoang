@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile 👋</h1>
-<h3 align="center">I am a Vietnamese guy who love computer.</h3>
+<h3 align="center">Currently studying Master 1 Computer Science for Aerospace. Familiar with a lot of modern programming languages. Currently interested in Generative Artificial Intelligence, mostly Natural Language Processing instead of Computer Vision.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhhoang&title=-Stars" alt="bhhoang" /></a> </p>
 
