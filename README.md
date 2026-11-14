@@ -2,7 +2,7 @@
 
 # Hi, I'm Hoang 👋
 
-### Master 2 Computer Science Student
+### Master Computer Science in Aerospace
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hhoangbui11)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bhhoang)
